@@ -3,6 +3,7 @@ import argparse
 import screed
 import sqer
 
+# counts the number of reads in a file
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('filenames', nargs='+')
