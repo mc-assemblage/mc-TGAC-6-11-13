@@ -2,7 +2,7 @@
 Project Details
 ===============
 
-sqer is awesome.
+sqer is awesome. SqerVy is better.
 
 Important details
 =================
